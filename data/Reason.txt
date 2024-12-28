@@ -1,0 +1,5 @@
+LLM are very particular in the types of large data input you can provide them with normal .xlsx files being the worst.
+
+Jsons feel like they work the best when you input it as straight text into the LLM prompt 
+
+But there's also some cool use cases with .csv files
